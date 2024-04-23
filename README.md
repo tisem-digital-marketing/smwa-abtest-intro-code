@@ -55,7 +55,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 Deer, Lachlan. 2024. Social Media and Web Analytics: A/B Tests: Introduction -- Code. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-abtest-intro-code"
 
 ```{r, engine='out', eval = FALSE}
-@misc{smwa-researchdesign-2024,
+@misc{smwa-abtests-2024,
       title={"Social Media and Web Analytics:  A/B Tests: Introduction -- Code"},
       author={Lachlan Deer},
       year={2024},
