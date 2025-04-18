@@ -14,6 +14,9 @@ library(broom)
 library(infer)
 library(vtable)
 library(car)
+library(tidyr)
+library(tibble)
+library(rstatix)
 
 # --- Load and Inspect Data --- # 
 df <- read_csv("data/test_data.csv")
