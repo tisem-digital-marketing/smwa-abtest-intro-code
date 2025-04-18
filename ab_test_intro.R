@@ -2,7 +2,7 @@
 #' 
 #' Code accompanying Lecture 4: A/B Tests: Introduction
 #' of Social Media and Web Analytics
-#' at TiSEM in 2024
+#' at TiSEM in 2025
 #' 
 #' 
 
